@@ -1,2 +1,2 @@
 # nodejs-socketio-chat-app
-Socket.io App Backend
+NodeJs Socket.io Bootstrap App
